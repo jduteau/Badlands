@@ -1,13 +1,13 @@
 ---
 type: hub
 namespace: Wiki
-updated: "2026-04-30"
+updated: "2026-05-01"
 ---
 
 # Wiki Dashboard
 
 Overview and health status of the Ironsworn: Badlands wiki.
-Last lint: 2026-04-30 — clean.
+Last lint: 2026-05-01 — clean.
 
 ## Namespaces
 
@@ -27,10 +27,12 @@ Last lint: 2026-04-30 — clean.
 
 - [[Wiki/Schema]] — Namespace conventions, page types, required properties, lint rules
 
-## Health Metrics (2026-04-30)
+## Health Metrics (2026-05-01)
 
-- Total pages: 27
-- Healthy: 27
-- Warnings fixed: 6 (empty hub cross-refs, Dashboard placeholder, stale Current_State)
-- Broken refs: 0
-- Orphans: 0 (Dashboard linked here; Conspiracy noted as legacy)
+- Total pages: 36
+- Healthy: 36
+- Broken refs: 0 (placeholder links in Schema.md are documentation examples only)
+- Orphans: 0
+- Stale: 0
+- Credential leaks: 0
+- Notes: Conspiracy namespace listed in llm-wiki.yml but has no pages (legacy, no active links)
