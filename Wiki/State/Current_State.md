@@ -1,10 +1,16 @@
 ---
-type: state
+type: knowledge
+domain: state
+confidence: established
 updated: "2026-04-30"
 session: 0 — Pre-Campaign / Character Creation
+deprecated: true
+superseded_by: "[[Wiki/State/Current-Session]]"
 ---
 
 # Current State
+
+> **Deprecated.** This file has been superseded by [[Wiki/State/Current-Session]], which uses the canonical schema format. Retained for historical reference only.
 
 ## Active PCs
 

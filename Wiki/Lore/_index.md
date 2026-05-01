@@ -9,3 +9,7 @@ updated: "2026-04-30"
 In-world documents, wanted posters, rumors, legends, and other textual artifacts discovered or referenced during play.
 
 *(No lore recorded yet.)*
+
+## See Also
+
+- [[Wiki/Dashboard]]
