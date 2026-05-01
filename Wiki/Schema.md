@@ -1,6 +1,7 @@
 ---
 wiki-version: "1.0"
 last-updated: "2026-04-30"
+schema-version: "1.1"
 maintained-by: llm-wiki
 type: schema
 ---
@@ -16,6 +17,90 @@ type: schema
 - Folder Hierarchy: Namespaces map to folders (e.g., `Wiki/Tech/Docker.md`)
 
 ## Page Types and Required Properties
+
+### PC (Player Character) — `Wiki/PCs/`
+
+Required YAML frontmatter:
+
+```yaml
+type: pc
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+status: active | retired | dead
+player: "Player Name"
+```
+
+Required sections and fields:
+
+**Stats** (each 1–3):
+- `edge` — speed, ranged attacks, quick draws
+- `heart` — courage, persuasion, social reads, endurance
+- `iron` — strength, close combat, forceful action
+- `shadow` — deception, stealth, manipulation, reading danger
+- `wits` — observation, investigation, planning, survival
+
+**Tracks:**
+- `health` — 0–5 (starts at 5)
+- `spirit` — 0–5 (starts at 5)
+- `supply` — 0–5 (starts at 5)
+- `momentum` — −6 to +10 (starts at +2)
+- `momentum-max` — 10 minus 1 per active debility (default 10)
+
+**Debilities** (each is true/false; each active one reduces momentum-max by 1):
+- Conditions: `wounded`, `shaken`, `unprepared`
+- Banes (permanent-ish): `maimed`, `corrupted`
+
+**Experience:**
+- `xp-earned` — total XP gained from fulfilled vows
+- `xp-spent` — total XP spent on Advance
+
+**Assets** (list each asset name and which ability boxes are checked):
+- 3 starting assets required; one must be the **Drifter** path asset
+- Upgrades cost 2 XP per ability box; new assets cost 3 XP
+
+**Bonds:**
+- Bond progress track (ticks, up to 40 ticks = 10 boxes)
+- Named list of bonds with specific people or communities; note if a bond was cleared
+
+**Vows / Progress Tracks** (one entry per active or completed vow):
+- Name of vow, rank (Troublesome/Dangerous/Formidable/Extreme/Epic), filled boxes (0–10), status (active/fulfilled/forsaken)
+
+**Background / Description:**
+- Brief character concept, name, appearance, history
+
+---
+
+### Current_State — `Wiki/State/Current_State.md`
+
+Required YAML frontmatter:
+
+```yaml
+type: state
+updated: YYYY-MM-DD
+session: <session number or title>
+```
+
+Required sections:
+
+**Active PCs** — link to each `[[Wiki/PCs/Name]]` page with a one-line status note (health, spirit, supply, momentum, active debilities)
+
+**Current Location** — link to `[[Wiki/Locations/Name]]`; brief note on situation there
+
+**Active Vows** — for each PC, list active vows with rank and current progress (boxes filled)
+
+**Active Journey** (if any) — destination, rank, progress boxes filled; note which move to use next
+
+**Combat / Encounter in Progress** (if any) — foe name, foe progress track, who has initiative
+
+**Recent Events** — 3–5 bullet points summarizing what happened in the last session (link to `[[Wiki/Sessions/Session-N]]`)
+
+**Immediate Threats / Hooks** — unresolved dangers or open threads facing the party
+
+**Key NPCs in Play** — link to `[[Wiki/NPCs/Name]]` for any NPC currently relevant; note their disposition and last known location
+
+**World / Faction Developments** — any faction or world changes that emerged this session (link to `[[Wiki/Factions/Name]]` or `[[Wiki/World/...]]` as applicable)
+
+---
 
 ### Entity (Person, Client, Tool, Service, Technology)
 
