@@ -6,6 +6,4 @@ updated: "2026-04-30"
 
 # World
 
-Add child pages below as your wiki grows.
-
-- [[Wiki/World/SubTopic]] -- Description of subtopic
+- [[Wiki/World/Badlands-Regions]] — Overview table of all ten Badlands regions
