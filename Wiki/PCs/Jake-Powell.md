@@ -8,7 +8,7 @@ player: Jean Duteau
 source: player-created
 confidence: established
 created: "2026-04-30"
-updated: "2026-04-30"
+updated: "2026-05-01"
 
 stat_edge: 2
 stat_heart: 3
@@ -16,10 +16,10 @@ stat_iron: 1
 stat_shadow: 1
 stat_wits: 2
 
-track_health: 5
+track_health: 4
 track_spirit: 5
-track_supply: 5
-track_momentum: 2
+track_supply: 4
+track_momentum: 5
 track_momentum_max: 10
 track_momentum_reset: 2
 
@@ -33,7 +33,7 @@ bane_corrupted: false
 xp_earned: 0
 xp_spent: 0
 
-last_location: unknown
+last_location: "[[Wiki/Locations/Harker-Ranch]]"
 first_session: 1
 ---
 
@@ -166,12 +166,17 @@ Bond progress track: 0 ticks (0/40)
 | NPC | Relationship | Notes |
 |-----|-------------|-------|
 | [[Wiki/NPCs/Cassidy]] | Unknown — object of the background vow | Pre-campaign; no interaction yet |
+| [[Wiki/NPCs/Tom-Blaine]] | Working relationship — hired Jake informally | $20 owed on delivery of solid evidence; Blaine's word of favor [Session 1] |
+| [[Wiki/NPCs/Mae-Sutter]] | Friendly civilian; information source | Volunteered intel on Eli Crane and Clara Harker; Jake used her name as social cover [Session 1] |
+| [[Wiki/NPCs/Clara-Harker]] | Employer (trial basis) | Hired Jake for one week at $1/day; does not know his true purpose yet [Session 1] |
+| [[Wiki/NPCs/Miller]] | Professional acquaintance | Reliable liveryman; warned Jake about Blaine's habits [Session 1] |
+| [[Wiki/NPCs/Mother-Aguilar]] | Brief lodging host | One night at Aguilar's; no ongoing relationship [Session 1] |
 
 ---
 
 ## History
 
-*(No sessions recorded yet.)*
+**[Session 1 — 2026-05-01]** Rode into [[Wiki/Locations/Perdition]] after three days on the trail. Stabled Wrangler, drank at the Dusty Rose, met [[Wiki/NPCs/Tom-Blaine]] and [[Wiki/NPCs/Mae-Sutter]]. Agreed to investigate the death of [[Wiki/NPCs/Eli-Crane]] and the Harker cattle theft for $20. Rode north the next morning. Caught in a tornado on open range — thrown from Wrangler, shoulder injured (Health 5→4). Made camp in a creek arroyo and discovered human bones bearing initials E.C. — plus a quality silver belt buckle inconsistent with Eli Crane's known poverty. Arrived at [[Wiki/Locations/Harker-Ranch]]; hired by [[Wiki/NPCs/Clara-Harker]] as a ranch hand. Found E.C. carved in the bunkhouse frame. Someone approached the bunkhouse as session ended. (End state: Health 4, Supply 4, Momentum +5.)
 
 ---
 

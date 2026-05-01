@@ -1,7 +1,7 @@
 ---
 type: hub
 namespace: "Wiki/Locations"
-updated: "2026-04-30"
+updated: "2026-05-01"
 ---
 
 # Locations
@@ -18,6 +18,11 @@ updated: "2026-04-30"
 - [[Wiki/Locations/Sea-of-Grass]] — Endless prairie; ranching and homesteading
 - [[Wiki/Locations/The-Big-Muddy]] — Great river corridor; trade, travel, and vice
 - [[Wiki/Locations/Back-East]] — Urbanized civilization (the place not to go)
+
+## Towns & Sites
+
+- [[Wiki/Locations/Perdition]] — Small town at arroyo junction in Mil Piedras; Jake's first stop
+- [[Wiki/Locations/Harker-Ranch]] — Cattle spread 2 days north-northeast of Perdition; center of the investigation
 
 ## See Also
 

@@ -8,7 +8,9 @@ updated: "2026-04-30"
 
 Active dangers, escalating situations, and persistent enemy forces threatening the campaign.
 
-*(No threats recorded yet.)*
+## Active Threats
+
+- [[Wiki/Threats/Harker-Ranch-Murder]] — Murder of Eli Crane and theft of 40 cattle; official account contradicted by evidence Jake found
 
 ## See Also
 
