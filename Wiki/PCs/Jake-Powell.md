@@ -10,6 +10,7 @@ confidence: established
 created: "2026-04-30"
 updated: "2026-05-01"
 
+
 stat_edge: 2
 stat_heart: 3
 stat_iron: 1
@@ -19,7 +20,7 @@ stat_wits: 2
 track_health: 4
 track_spirit: 5
 track_supply: 4
-track_momentum: 5
+track_momentum: 7
 track_momentum_max: 10
 track_momentum_reset: 2
 
@@ -69,14 +70,14 @@ Jake Powell is a drifter whose past includes at least one incident in Calvert th
 
 ## Tracks
 
-| Track            | Current | Range           |
-|------------------|---------|-----------------|
-| Health           | 5       | 0–5             |
-| Spirit           | 5       | 0–5             |
-| Supply           | 5       | 0–5             |
-| Momentum         | +2      | −6 to +10       |
-| Momentum Max     | 10      | 10 − debilities |
-| Momentum Reset   | +2      | 2 − banes       |
+| Track          | Current | Range           |
+| -------------- | ------- | --------------- |
+| Health         | 4       | 0–5             |
+| Spirit         | 5       | 0–5             |
+| Supply         | 4       | 0–5             |
+| Momentum       | +7      | −6 to +10       |
+| Momentum Max   | 10      | 10 − debilities |
+| Momentum Reset | +2      | 2 − banes       |
 
 ---
 
@@ -171,10 +172,16 @@ Bond progress track: 0 ticks (0/40)
 | [[Wiki/NPCs/Clara-Harker]] | Employer (trial basis) | Hired Jake for one week at $1/day; does not know his true purpose yet [Session 1] |
 | [[Wiki/NPCs/Miller]] | Professional acquaintance | Reliable liveryman; warned Jake about Blaine's habits [Session 1] |
 | [[Wiki/NPCs/Mother-Aguilar]] | Brief lodging host | One night at Aguilar's; no ongoing relationship [Session 1] |
+| [[Wiki/NPCs/Old-Man-Harker]] | Secret employer | Harker secretly hired Jake to investigate Eli's murder; Jake reports to Harker first but won't lie to Blaine if asked directly [Session 2] |
+| [[Wiki/NPCs/Maria]] | Civilian — ranch cook | Met at lunch; no direct exchange; a quiet witness to ranch life [Session 2] |
+| [[Wiki/NPCs/Samuel-Reeves]] | Ranch hand — unknown | Heard but not met; one of two remaining hands at the ranch [Session 2] |
+| [[Wiki/NPCs/Hector-Garza]] | Ranch hand — unknown | Heard but not met; one of two remaining hands at the ranch [Session 2] |
 
 ---
 
 ## History
+
+**[Session 2 — 2026-05-01]** First full day at [[Wiki/Locations/Harker-Ranch]]. Confronted by [[Wiki/NPCs/Old-Man-Harker]] in the bunkhouse; Harker secretly hired Jake to investigate [[Wiki/NPCs/Eli-Crane]]'s murder — deal struck: report to Harker first, but won't lie to Blaine if asked. Lunch in the main house with Harker, [[Wiki/NPCs/Clara-Harker]], and [[Wiki/NPCs/Maria]]. Rode north to investigate the crime scene. Discovered the body was staged: Eli was killed at a boulder cluster upstream, body moved to the creek bed. Found a town shoe boot print and a worn military brass button (eagle clutching arrows) — killer is not a local rancher. Evidence now held: E.C. hat band, silver belt buckle, brass military button. Returned at dusk; [[Wiki/NPCs/Samuel-Reeves]] and [[Wiki/NPCs/Hector-Garza]] back from the range. Harker waiting on the porch — can't report safely in the open. (End state: Health 4, Spirit 5, Supply 4, Momentum +7.)
 
 **[Session 1 — 2026-05-01]** Rode into [[Wiki/Locations/Perdition]] after three days on the trail. Stabled Wrangler, drank at the Dusty Rose, met [[Wiki/NPCs/Tom-Blaine]] and [[Wiki/NPCs/Mae-Sutter]]. Agreed to investigate the death of [[Wiki/NPCs/Eli-Crane]] and the Harker cattle theft for $20. Rode north the next morning. Caught in a tornado on open range — thrown from Wrangler, shoulder injured (Health 5→4). Made camp in a creek arroyo and discovered human bones bearing initials E.C. — plus a quality silver belt buckle inconsistent with Eli Crane's known poverty. Arrived at [[Wiki/Locations/Harker-Ranch]]; hired by [[Wiki/NPCs/Clara-Harker]] as a ranch hand. Found E.C. carved in the bunkhouse frame. Someone approached the bunkhouse as session ended. (End state: Health 4, Supply 4, Momentum +5.)
 

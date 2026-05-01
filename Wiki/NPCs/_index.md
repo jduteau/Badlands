@@ -18,5 +18,8 @@ updated: "2026-05-01"
 ## Harker Ranch
 
 - [[Wiki/NPCs/Clara-Harker]] — Daughter of Old Man Harker; runs the ranch; hired Jake on
-- [[Wiki/NPCs/Old-Man-Harker]] — Ranch owner; ill; deep conflict with Sheriff Blaine
+- [[Wiki/NPCs/Old-Man-Harker]] — Ranch owner; ill; deep conflict with Sheriff Blaine; privately hired Jake to investigate
 - [[Wiki/NPCs/Eli-Crane]] — Dead ranch hand; identity and grave site in question
+- [[Wiki/NPCs/Maria]] — Cook at the ranch; Mexican woman, fifties; quiet observer
+- [[Wiki/NPCs/Samuel-Reeves]] — Ranch hand; one of two remaining; not yet met by Jake
+- [[Wiki/NPCs/Hector-Garza]] — Ranch hand; one of two remaining; not yet met by Jake

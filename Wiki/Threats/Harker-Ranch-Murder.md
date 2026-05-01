@@ -4,7 +4,7 @@ domain: threat
 confidence: established
 created: "2026-05-01"
 updated: "2026-05-01"
-threat_tier: active
+threat_tier: escalating
 pc_awareness: significant
 ---
 
@@ -30,9 +30,18 @@ Someone killed a ranch hand and stole 40 prime cattle from the Harker spread. Th
 - No tracks survived the wind; Blaine's investigation stalled
 - Old Man Harker and Sheriff Blaine have an unresolved personal conflict that blocked official investigation
 
+**[Session 2]**
+- True death site confirmed: boulder cluster ~30 yards upstream from the creek bed
+- Body was staged — drag marks show Eli was moved post-mortem back to the creek bed
+- Boot print behind a cottonwood: flat, hard-edged sole — a town shoe; killer was not a rancher or drifter
+- Brass military button found beside the boot print: eagle clutching arrows, worn almost smooth; killer has or had military connections
+- Wrangler spooked by something to the northeast of the crime scene — unresolved
+- Old Man Harker has formally barred Sheriff Blaine from his land; Blaine cannot investigate directly
+
 **Physical evidence in Jake's possession:**
 - Hat band (E.C., scratched knife-point)
 - Silver belt buckle (longhorn steer design, fine quality)
+- Brass military button (eagle clutching arrows, worn smooth with age)
 
 ---
 
@@ -50,8 +59,10 @@ Someone killed a ranch hand and stole 40 prime cattle from the Harker spread. Th
 ## Key Actors
 
 - [[Wiki/NPCs/Eli-Crane]] — victim (identity uncertain)
-- [[Wiki/NPCs/Old-Man-Harker]] — ranch owner; hostile to the investigation
-- [[Wiki/NPCs/Clara-Harker]] — ranch operator; potential key witness
+- [[Wiki/NPCs/Old-Man-Harker]] — ranch owner; has secretly hired Jake as a parallel investigator; Blaine formally barred from his land
+- [[Wiki/NPCs/Clara-Harker]] — ranch operator; potential key witness; found Eli's body
+- [[Wiki/NPCs/Samuel-Reeves]] — remaining ranch hand; unknown alignment
+- [[Wiki/NPCs/Hector-Garza]] — remaining ranch hand; unknown alignment
 - [[Wiki/NPCs/Tom-Blaine]] — hired Jake; blocked from direct investigation
 - [[Wiki/PCs/Jake-Powell]] — active investigator; inside the ranch as of Session 1
 
@@ -67,6 +78,8 @@ No linked threats yet. May connect to other regional criminal activity as invest
 
 **[Session 1]** Active. Jake is embedded at the Harker Ranch as a hired hand. He holds two pieces of physical evidence that contradict the official account. The question of the grave — and whose bones are in the arroyo — is unresolved. Clara Harker has not yet been questioned; Old Man Harker has not yet been met.
 
+**[Session 2]** Major progress. Jake investigated the north pasture crime scene and confirmed the body was staged. True death site identified at boulder cluster upstream. Town shoe print and military button establish the killer is someone with town connections and a military background — not a local rancher. Jake now holds three pieces of physical evidence. He has two employers (Harker and Blaine) with conflicting agendas. The ranch hands Samuel Reeves and Hector Garza have returned from range — their knowledge and loyalty unknown. Wrangler's reaction to the northeast is an unresolved thread.
+
 ---
 
 ## Cross-References
@@ -78,5 +91,8 @@ No linked threats yet. May connect to other regional criminal activity as invest
 - [[Wiki/Locations/Harker-Ranch]]
 - [[Wiki/Locations/Perdition]]
 - [[Wiki/PCs/Jake-Powell]]
+- [[Wiki/NPCs/Samuel-Reeves]]
+- [[Wiki/NPCs/Hector-Garza]]
 - [[Wiki/Sessions/Session-01-Arriving-in-Perdition]]
+- [[Wiki/Sessions/Session-02-The-Staged-Scene]]
 - [[Wiki/Threats/_index]]

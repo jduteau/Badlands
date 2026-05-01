@@ -44,12 +44,17 @@ Under-staffed and under threat. [[Wiki/NPCs/Old-Man-Harker]] is ill and querulou
 
 The bunkhouse shows only 2 of 8 bunks in recent use. Eli Crane's bunk — corner, far end — has **E.C.** carved into the frame. [Session 1]
 
+Jake's investigation confirmed the north pasture crime scene was staged — Eli's body was moved from its true death site at a boulder cluster upstream to the creek bed. The killer left a town shoe boot print and a military brass button near the cottonwood. The ranch hands [[Wiki/NPCs/Samuel-Reeves]] and [[Wiki/NPCs/Hector-Garza]] have returned from the range. [Session 2]
+
 ---
 
 ## Known Inhabitants
 
-- [[Wiki/NPCs/Old-Man-Harker]] — owner; ill; hostile to strangers and to [[Wiki/NPCs/Tom-Blaine]]
-- [[Wiki/NPCs/Clara-Harker]] — daughter; runs the ranch; hired Jake Powell
+- [[Wiki/NPCs/Old-Man-Harker]] — owner; ill; deep conflict with [[Wiki/NPCs/Tom-Blaine]]; has privately hired Jake to investigate
+- [[Wiki/NPCs/Clara-Harker]] — daughter; runs the ranch; hired Jake Powell; found Eli Crane's body
+- [[Wiki/NPCs/Maria]] — cook; Mexican woman, fifties; quiet, observant
+- [[Wiki/NPCs/Samuel-Reeves]] — ranch hand; one of two remaining; returned from range Session 2
+- [[Wiki/NPCs/Hector-Garza]] — ranch hand; one of two remaining; returned from range Session 2
 
 ---
 
@@ -63,14 +68,18 @@ No bond held.
 
 **[Session 1]** Jake Powell arrived after a two-day ride interrupted by a tornado. Presented himself as a hand looking for work (referencing Mae Sutter). Clara Harker hired him for one week at $1/day. He is bunking in the tack room. Before lunch he toured the property and found Eli Crane's carved initials in the bunkhouse. Someone approached as session ended.
 
+**[Session 2]** Old Man Harker confronted Jake in the bunkhouse and privately hired him to investigate. Jake had lunch with the Harkers and met Maria. Jake then rode north to the crime scene and confirmed the body was staged. Returned at dusk with the other hands back from range. Harker on the porch, waiting.
+
 ---
 
 ## GM Notes
 
 - The north fence line is where Eli Crane was riding when he went missing
-- The gulch east of the ranch is where the body was supposedly found; Jake's bones were found elsewhere
-- Harker suspects Blaine isn't doing enough; deeper reason for the feud TBD
-- 40 head of prime cattle are missing — who took them and where did they go?
+- True death site now identified: boulder cluster ~30 yards upstream from the creek bed; body was staged at the creek
+- Harker's feud with Blaine: deep enough that Blaine is formally barred from the land; deeper reason TBD
+- 40 head of prime cattle still missing — scattered as a deliberate distraction, per Harker's suspicion
+- Something to the northeast of the crime scene spooked Wrangler — unresolved
+- The killer wore town shoes and carried (or lost) a military brass button — not a local rancher
 
 ---
 
@@ -84,5 +93,9 @@ No bond held.
 - [[Wiki/NPCs/Tom-Blaine]]
 - [[Wiki/PCs/Jake-Powell]]
 - [[Wiki/Threats/Harker-Ranch-Murder]]
+- [[Wiki/NPCs/Maria]]
+- [[Wiki/NPCs/Samuel-Reeves]]
+- [[Wiki/NPCs/Hector-Garza]]
 - [[Wiki/Sessions/Session-01-Arriving-in-Perdition]]
+- [[Wiki/Sessions/Session-02-The-Staged-Scene]]
 - [[Wiki/Locations/_index]]
