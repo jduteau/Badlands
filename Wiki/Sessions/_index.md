@@ -1,11 +1,11 @@
 ---
 type: hub
-namespace: "Wiki/Sessions"
+namespace: Wiki/Sessions
 updated: "2026-04-30"
 ---
 
 # Sessions
 
-Add child pages below as your wiki grows.
+Individual play session records. One page per session.
 
-- [[Wiki/Sessions/SubTopic]] -- Description of subtopic
+*(No sessions recorded yet.)*

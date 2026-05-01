@@ -1,11 +1,11 @@
 ---
 type: hub
-namespace: "Wiki/Factions"
+namespace: Wiki/Factions
 updated: "2026-04-30"
 ---
 
 # Factions
 
-Add child pages below as your wiki grows.
+Gangs, outfits, institutions, and communities with collective agenda and presence in the Badlands.
 
-- [[Wiki/Factions/SubTopic]] -- Description of subtopic
+*(No factions recorded yet.)*

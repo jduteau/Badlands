@@ -1,11 +1,11 @@
 ---
 type: hub
-namespace: "Wiki/Conspiracy"
+namespace: Wiki/Conspiracy
 updated: "2026-04-30"
 ---
 
 # Conspiracy
 
-Add child pages below as your wiki grows.
+> **Note:** The active threat/danger namespace has moved to [[Wiki/Threats/_index]]. This folder is retained for any conspiracy-specific content discovered during play.
 
-- [[Wiki/Conspiracy/SubTopic]] -- Description of subtopic
+*(No pages recorded yet.)*

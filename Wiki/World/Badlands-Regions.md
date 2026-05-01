@@ -1,6 +1,9 @@
 ---
-type: hub
-namespace: "Wiki/World/Badlands-Regions"
+type: knowledge
+domain: world
+world_category: geography
+canon_source: Ironsworn Badlands rules
+confidence: canon
 created: "2026-04-30"
 updated: "2026-04-30"
 ---
@@ -8,6 +11,8 @@ updated: "2026-04-30"
 # Badlands Regions
 
 The ten major regions of the Badlands, each with a distinct climate, culture, and flavor.
+
+## Overview
 
 | Region | Character | Primary Livelihood |
 |---|---|---|
@@ -22,6 +27,11 @@ The ten major regions of the Badlands, each with a distinct climate, culture, an
 | [[Wiki/Locations/The-Big-Muddy]] | Great river corridor | River trade, travel, vice |
 | [[Wiki/Locations/Back-East]] | Urbanized, civilized (unwelcomely so) | Finance, politics, exploitation |
 
-## See Also
+## Relevance to Campaign
+
+All ten regions are available as settings for Jake Powell's wandering. The campaign begins before any region has been visited. Update this section as the campaign develops.
+
+## Cross-References
 
 - [[Wiki/Locations/_index]]
+- [[Wiki/World/_index]]
