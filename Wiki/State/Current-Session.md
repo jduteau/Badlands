@@ -2,6 +2,7 @@
 type: knowledge
 domain: state
 confidence: established
+created: "2026-05-01"
 updated: "2026-05-01"
 ---
 

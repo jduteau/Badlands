@@ -10,7 +10,6 @@ confidence: established
 created: "2026-04-30"
 updated: "2026-05-01"
 
-
 stat_edge: 2
 stat_heart: 3
 stat_iron: 1

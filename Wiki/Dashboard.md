@@ -7,7 +7,7 @@ updated: "2026-05-01"
 # Wiki Dashboard
 
 Overview and health status of the Ironsworn: Badlands wiki.
-Last lint: 2026-05-01 — clean.
+Last lint: 2026-05-01 — clean (post-Session 2).
 
 ## Namespaces
 
@@ -27,12 +27,13 @@ Last lint: 2026-05-01 — clean.
 
 - [[Wiki/Schema]] — Namespace conventions, page types, required properties, lint rules
 
-## Health Metrics (2026-05-01)
+## Health Metrics (2026-05-01, post-Session 2)
 
-- Total pages: 36
-- Healthy: 36
+- Total pages: 40
+- Healthy: 40
 - Broken refs: 0 (placeholder links in Schema.md are documentation examples only)
 - Orphans: 0
 - Stale: 0
 - Credential leaks: 0
-- Notes: Conspiracy namespace listed in llm-wiki.yml but has no pages (legacy, no active links)
+- Fixed: State/Current-Session.md missing `created` field; Jake-Powell.md stray blank line in YAML
+- Notes: 4 new pages added this lint cycle (Session-02, Maria, Samuel-Reeves, Hector-Garza)
