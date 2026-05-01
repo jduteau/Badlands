@@ -6,6 +6,4 @@ updated: "2026-04-30"
 
 # State
 
-Add child pages below as your wiki grows.
-
-- [[Wiki/State/SubTopic]] -- Description of subtopic
+- [[Wiki/State/Current_State]] — Live game state: PC tracks, active vows, current location, threats

@@ -6,6 +6,4 @@ updated: "2026-04-30"
 
 # NPCs
 
-Add child pages below as your wiki grows.
-
-- [[Wiki/NPCs/SubTopic]] -- Description of subtopic
+- [[Wiki/NPCs/Cassidy]] — Woman in Jake Powell's photograph; whereabouts unknown

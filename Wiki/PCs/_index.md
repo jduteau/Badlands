@@ -6,6 +6,4 @@ updated: "2026-04-30"
 
 # PCs
 
-Add child pages below as your wiki grows.
-
-- [[Wiki/PCs/SubTopic]] -- Description of subtopic
+- [[Wiki/PCs/Jake-Powell]] — Drifter, Pistoleer; background vow to find Cassidy (Epic)
