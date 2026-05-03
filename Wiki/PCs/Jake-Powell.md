@@ -8,7 +8,7 @@ player: Jean Duteau
 source: player-created
 confidence: established
 created: "2026-04-30"
-updated: "2026-05-01"
+updated: "2026-05-02"
 
 stat_edge: 2
 stat_heart: 3
@@ -173,12 +173,15 @@ Bond progress track: 0 ticks (0/40)
 | [[Wiki/NPCs/Mother-Aguilar]] | Brief lodging host | One night at Aguilar's; no ongoing relationship [Session 1] |
 | [[Wiki/NPCs/Old-Man-Harker]] | Secret employer | Harker secretly hired Jake to investigate Eli's murder; Jake reports to Harker first but won't lie to Blaine if asked directly [Session 2] |
 | [[Wiki/NPCs/Maria]] | Civilian — ranch cook | Met at lunch; no direct exchange; a quiet witness to ranch life [Session 2] |
-| [[Wiki/NPCs/Samuel-Reeves]] | Ranch hand — unknown | Heard but not met; one of two remaining hands at the ranch [Session 2] |
-| [[Wiki/NPCs/Hector-Garza]] | Ranch hand — unknown | Heard but not met; one of two remaining hands at the ranch [Session 2] |
+| [[Wiki/NPCs/Samuel-Reeves]] | Ranch hand — cautiously friendly | Met Session 3; guarded welcome; three years at the spread; found Eli's body; warned Jake to let sleeping dogs lie; assigned as fence-work partner [Session 3] |
+| [[Wiki/NPCs/Hector-Garza]] | Ranch hand — neutral | Met Session 3; accepted Jake on Clara's word; warned about the ranch's shadow; showed small kindness with the spare blanket [Session 3] |
+| [[Wiki/NPCs/Doc-Whitmore]] | Civilian — potential lead | Named by Harker as a townsman with military background (patched soldiers); not yet met [Session 3] |
 
 ---
 
 ## History
+
+**[Session 3 — 2026-05-02]** Met [[Wiki/NPCs/Samuel-Reeves]] and [[Wiki/NPCs/Hector-Garza]] in the bunkhouse; gave guarded welcomes. Attended supper at the main house — Clara assigned Jake to fence work with Reeves at dawn. Secret midnight meeting with [[Wiki/NPCs/Old-Man-Harker]] in the smokehouse: revealed the staged scene, the cavalry button, and the bones with E.C. initials. Harker confirmed the imposter theory — the real Eli Crane has been dead for months. Harker established Jake as supply runner for town; provided $40 for errands and information gathering. Agreed signal protocol: lantern in main house window = safe to meet after midnight. Harker's charge: find who took the real Eli and report first. (End state: Health 4, Spirit 5, Supply 4, Momentum +7. Funds: $40.)
 
 **[Session 2 — 2026-05-01]** First full day at [[Wiki/Locations/Harker-Ranch]]. Confronted by [[Wiki/NPCs/Old-Man-Harker]] in the bunkhouse; Harker secretly hired Jake to investigate [[Wiki/NPCs/Eli-Crane]]'s murder — deal struck: report to Harker first, but won't lie to Blaine if asked. Lunch in the main house with Harker, [[Wiki/NPCs/Clara-Harker]], and [[Wiki/NPCs/Maria]]. Rode north to investigate the crime scene. Discovered the body was staged: Eli was killed at a boulder cluster upstream, body moved to the creek bed. Found a town shoe boot print and a worn military brass button (eagle clutching arrows) — killer is not a local rancher. Evidence now held: E.C. hat band, silver belt buckle, brass military button. Returned at dusk; [[Wiki/NPCs/Samuel-Reeves]] and [[Wiki/NPCs/Hector-Garza]] back from the range. Harker waiting on the porch — can't report safely in the open. (End state: Health 4, Spirit 5, Supply 4, Momentum +7.)
 

@@ -1,7 +1,7 @@
 ---
 type: hub
 namespace: "Wiki/NPCs"
-updated: "2026-05-01"
+updated: "2026-05-02"
 ---
 
 # NPCs
@@ -21,5 +21,9 @@ updated: "2026-05-01"
 - [[Wiki/NPCs/Old-Man-Harker]] — Ranch owner; ill; deep conflict with Sheriff Blaine; privately hired Jake to investigate
 - [[Wiki/NPCs/Eli-Crane]] — Dead ranch hand; identity and grave site in question
 - [[Wiki/NPCs/Maria]] — Cook at the ranch; Mexican woman, fifties; quiet observer
-- [[Wiki/NPCs/Samuel-Reeves]] — Ranch hand; one of two remaining; not yet met by Jake
-- [[Wiki/NPCs/Hector-Garza]] — Ranch hand; one of two remaining; not yet met by Jake
+- [[Wiki/NPCs/Samuel-Reeves]] — Ranch hand; one of two remaining; met Session 3; found Eli's body; assigned fence work with Jake
+- [[Wiki/NPCs/Hector-Garza]] — Ranch hand; one of two remaining; met Session 3; accepted Jake without suspicion
+
+## Suspects / Leads
+
+- [[Wiki/NPCs/Doc-Whitmore]] — Perdition doctor; patched soldiers; military-connection lead in Harker Ranch Murder investigation

@@ -8,11 +8,11 @@ npc_scope: neutral
 confidence: established
 source: emergent
 created: "2026-05-01"
-updated: "2026-05-01"
+updated: "2026-05-02"
 last_location: "[[Wiki/Locations/Harker-Ranch]]"
-disposition: unknown
-disposition_known: Returned from the range at dusk; voice heard from the bunkhouse; not yet met face to face
-disposition_true: Unknown — described by Clara as a good man; has been working the range during a dangerous period
+disposition: neutral
+disposition_known: Even-keeled; accepted Jake on Clara's word alone; warned him about the shadow over the ranch; recommended he grab the spare wool blanket
+disposition_true: Unknown — loyal to Clara and Thomas; stayed when others ran
 first_session: 2
 bond_held: false
 ---
@@ -25,7 +25,7 @@ Ranch hand at [[Wiki/Locations/Harker-Ranch]]. One of two hands who remained aft
 
 ## Description
 
-Not yet seen up close. Clara Harker vouched for him — "good man, both of them" — in context of explaining the ranch's remaining crew.
+Younger than Reeves, wiry. Scrubbing trail dust from his face at the washbasin when Jake first walked in. Eyes move over a stranger quick and careful. His tone is even with flint underneath it. Practical — he told Jake about the wool blanket in the chest without being asked. [Session 3]
 
 ---
 
@@ -39,13 +39,17 @@ One of the two surviving ranch hands at the Harker spread. He and [[Wiki/NPCs/Sa
 
 **[Session 2]** Heard but not met — voices carrying from the bunkhouse at dusk when Jake returned from the crime scene.
 
+**[Session 3]** Formally met in the bunkhouse. Accepted Jake on Clara's word without pushback. Warned him about the shadow over the ranch since Eli died. Recommended he grab the wool blanket from the chest by the tack room door. Ate supper beside Jake at the main house.
+
 ---
 
 ## What the PC Knows
 
 - Ranch hand at Harker Ranch; one of only two remaining
-- Clara describes him as a good man
-- Has been working the range; returned to the bunkhouse at dusk, Session 2
+- Younger than Reeves; wiry, quick-eyed, practical
+- Accepted Jake without suspicion once Clara's name was invoked — "if Miss Harker hired him, that's enough for me"
+- Warned Jake about the shadow over the ranch since Eli died and the crew scattered
+- Told Jake about the wool blanket in the tack room chest — thoughtful gesture for a new hire
 
 ---
 
@@ -65,6 +69,8 @@ No bond held.
 
 **[Session 2]** Returned from the range at dusk with [[Wiki/NPCs/Samuel-Reeves]]. Jake heard voices from the bunkhouse but had not yet spoken with him.
 
+**[Session 3]** Met Jake in the bunkhouse; accepted him without suspicion. Warned him about the shadow over the ranch. Attended supper at the main house. Told Jake about the spare blanket in the tack room.
+
 ---
 
 ## Cross-References
@@ -75,4 +81,5 @@ No bond held.
 - [[Wiki/NPCs/Eli-Crane]]
 - [[Wiki/PCs/Jake-Powell]]
 - [[Wiki/Sessions/Session-02-The-Staged-Scene]]
+- [[Wiki/Sessions/Session-03-The-Imposter-Revealed]]
 - [[Wiki/NPCs/_index]]

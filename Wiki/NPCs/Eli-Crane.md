@@ -8,7 +8,7 @@ npc_scope: neutral
 confidence: established
 source: emergent
 created: "2026-05-01"
-updated: "2026-05-01"
+updated: "2026-05-02"
 last_location: "[[Wiki/Locations/Harker-Ranch]]"
 disposition: unknown
 disposition_known: Never met; known only through others' accounts
@@ -57,17 +57,24 @@ Never met. Jake is investigating his death and the circumstances around it.
 - A silver belt buckle (longhorn steer design, quality craftsmanship) — found beside the same skeleton
 - The silver buckle is inconsistent with Eli's stated poverty ("never had two coins to rub together")
 
+**Session 3 revelation:**
+- Jake informed [[Wiki/NPCs/Old-Man-Harker]] of the bones and E.C. hat band; Harker confirmed the grave-side body had severe facial damage from animals and sun — he had not let Clara view it
+- The man who worked the ranch under Eli's name for recent months was almost certainly an imposter; the real Eli has been dead long enough to be bones
+- Harker recalled: Eli came to the ranch at sixteen, six years ago; Harker's illness left him unable to ride the pastures for months — he stopped really looking at his hands
+- The real Eli Crane: sixteen when he arrived, not a soul in the world who cared about him; Clara cared; Harker cared
+
 ---
 
 ## GM Truth
 
-*(To be established in play.)*
+The skeleton in the arroyo is almost certainly the real Eli Crane — dead months before Session 1. The man buried in Perdition's cemetery (and who worked the ranch under his name) was an imposter planted by an unknown party. The imposter's handler almost certainly killed him to clean up a loose end.
 
 **Open questions:**
-- Is the skeleton in the arroyo Eli Crane's, or someone else with the same initials?
-- If Eli's remains are in the arroyo, whose body is in the grave in Perdition?
-- Why did a man who never had money possess a quality silver belt buckle?
-- Was there truly a relationship between Eli and Clara? What did it mean?
+- When exactly did the imposter replace the real Eli — and how long was the switch undetected?
+- Whose body is in the Perdition grave (the imposter's)?
+- Why did the imposter carry a quality silver belt buckle — was it a handler's payment or a personal item?
+- Was there truly a relationship between the imposter and Clara, or between the real Eli and Clara? What did Clara actually know?
+- What did the imposter find (or fail to find) on Harker land before being eliminated?
 
 ---
 
@@ -80,6 +87,8 @@ No bond held. Never met.
 ## History
 
 **[Session 1]** Described by [[Wiki/NPCs/Mae-Sutter]] and [[Wiki/NPCs/Tom-Blaine]]. Jake found the **E.C.** hat band and silver buckle in a creek arroyo ~1 day south of the ranch. Later found **E.C.** carved into the bunkhouse frame at the Harker Ranch.
+
+**[Session 3]** Jake revealed the bone discovery to [[Wiki/NPCs/Old-Man-Harker]]. Harker confirmed the identity question — the grave-side body had severe facial damage; he hadn't let Clara view it. Conclusion: the real Eli Crane has been dead for months; the man who worked the ranch and was found at the creek was an imposter. Harker recalled the real Eli fondly — came at sixteen, no family, gentle with horses, worked the spread six years. "We cared. Clara cared."
 
 ---
 
@@ -94,4 +103,5 @@ No bond held. Never met.
 - [[Wiki/PCs/Jake-Powell]]
 - [[Wiki/Threats/Harker-Ranch-Murder]]
 - [[Wiki/Sessions/Session-01-Arriving-in-Perdition]]
+- [[Wiki/Sessions/Session-03-The-Imposter-Revealed]]
 - [[Wiki/NPCs/_index]]

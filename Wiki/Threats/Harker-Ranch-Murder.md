@@ -3,7 +3,7 @@ type: knowledge
 domain: threat
 confidence: established
 created: "2026-05-01"
-updated: "2026-05-01"
+updated: "2026-05-02"
 threat_tier: escalating
 pc_awareness: significant
 ---
@@ -43,6 +43,16 @@ Someone killed a ranch hand and stole 40 prime cattle from the Harker spread. Th
 - Silver belt buckle (longhorn steer design, fine quality)
 - Brass military button (eagle clutching arrows, worn smooth with age)
 
+**[Session 3]**
+- Jake revealed the staged body and cavalry button to [[Wiki/NPCs/Old-Man-Harker]] in midnight smokehouse meeting
+- Harker confirmed: the buried body had severe facial damage from animals and sun; he had not let Clara view it
+- Harker concluded: the man who worked the ranch as "Eli Crane" was an imposter planted to surveil the land
+- The imposter was almost certainly eliminated by his handler when he became a loose end
+- Probable motive for surveillance: water rights (north pasture creek feeds Perdition's aquifer), old smuggler/Apache trails in the hills, or unknown mines and caves on the property
+- The killer (handler, old cavalry background) is probably still in Perdition watching
+- New lead: an unnamed surveyor came through in spring asking about land rights and water access — potential suspect
+- Jake now has cover as Harker's supply runner; can investigate in Perdition twice weekly
+
 ---
 
 ## Hidden Evidence
@@ -58,13 +68,17 @@ Someone killed a ranch hand and stole 40 prime cattle from the Harker spread. Th
 
 ## Key Actors
 
-- [[Wiki/NPCs/Eli-Crane]] — victim (identity uncertain)
-- [[Wiki/NPCs/Old-Man-Harker]] — ranch owner; has secretly hired Jake as a parallel investigator; Blaine formally barred from his land
-- [[Wiki/NPCs/Clara-Harker]] — ranch operator; potential key witness; found Eli's body
-- [[Wiki/NPCs/Samuel-Reeves]] — remaining ranch hand; unknown alignment
-- [[Wiki/NPCs/Hector-Garza]] — remaining ranch hand; unknown alignment
-- [[Wiki/NPCs/Tom-Blaine]] — hired Jake; blocked from direct investigation
-- [[Wiki/PCs/Jake-Powell]] — active investigator; inside the ranch as of Session 1
+- [[Wiki/NPCs/Eli-Crane]] — the real Eli: dead for months, bones found in arroyo; the "Eli" who worked the ranch was an imposter
+- [[Wiki/NPCs/Old-Man-Harker]] — ranch owner; confirmed the imposter theory; established Jake's cover as supply runner [Session 3]
+- [[Wiki/NPCs/Clara-Harker]] — ranch operator; potential key witness; does not yet know about the imposter
+- [[Wiki/NPCs/Samuel-Reeves]] — remaining ranch hand; may hold clues about changes in "Eli's" behavior; now met by Jake
+- [[Wiki/NPCs/Hector-Garza]] — remaining ranch hand; may hold clues about changes in "Eli's" behavior; now met by Jake
+- [[Wiki/NPCs/Tom-Blaine]] — hired Jake; blocked from direct investigation; confirmed Army background [Session 3]
+- [[Wiki/NPCs/Mae-Sutter]] — key lead; the imposter took Sunday suppers at her boarding house [Session 3]
+- [[Wiki/NPCs/Doc-Whitmore]] — Perdition doctor; patched soldiers; potential military-connection lead [Session 3]
+- The Unnamed Surveyor — came through in spring asking about land rights and water access; potential suspect [Session 3]
+- The Handler (unnamed) — old cavalry background; almost certainly the killer; probably still in Perdition [Session 3]
+- [[Wiki/PCs/Jake-Powell]] — active investigator; now has supply-runner cover for town visits
 
 ---
 
@@ -79,6 +93,8 @@ No linked threats yet. May connect to other regional criminal activity as invest
 **[Session 1]** Active. Jake is embedded at the Harker Ranch as a hired hand. He holds two pieces of physical evidence that contradict the official account. The question of the grave — and whose bones are in the arroyo — is unresolved. Clara Harker has not yet been questioned; Old Man Harker has not yet been met.
 
 **[Session 2]** Major progress. Jake investigated the north pasture crime scene and confirmed the body was staged. True death site identified at boulder cluster upstream. Town shoe print and military button establish the killer is someone with town connections and a military background — not a local rancher. Jake now holds three pieces of physical evidence. He has two employers (Harker and Blaine) with conflicting agendas. The ranch hands Samuel Reeves and Hector Garza have returned from range — their knowledge and loyalty unknown. Wrangler's reaction to the northeast is an unresolved thread.
+
+**[Session 3]** Major revelation. Jake revealed all findings to Old Man Harker in a midnight smokehouse meeting. The imposter theory is now confirmed as the working conclusion: the real Eli Crane died months ago; the man buried in Perdition was the imposter, eliminated by his handler when he became a loose end. Harker has established Jake's cover as supply runner for town investigation. Key leads now identified: Mae Sutter (imposter's Sunday suppers), Reeves and Garza (behavioral changes in "Eli"), the spring surveyor. The handler — old cavalry, patient, methodical — is probably still in Perdition.
 
 ---
 
@@ -95,4 +111,7 @@ No linked threats yet. May connect to other regional criminal activity as invest
 - [[Wiki/NPCs/Hector-Garza]]
 - [[Wiki/Sessions/Session-01-Arriving-in-Perdition]]
 - [[Wiki/Sessions/Session-02-The-Staged-Scene]]
+- [[Wiki/Sessions/Session-03-The-Imposter-Revealed]]
+- [[Wiki/NPCs/Doc-Whitmore]]
+- [[Wiki/NPCs/Mae-Sutter]]
 - [[Wiki/Threats/_index]]

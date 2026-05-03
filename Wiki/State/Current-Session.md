@@ -3,7 +3,7 @@ type: knowledge
 domain: state
 confidence: established
 created: "2026-05-01"
-updated: "2026-05-01"
+updated: "2026-05-02"
 ---
 
 # Current Session
@@ -28,6 +28,22 @@ Active Bonds:
 Active Threats:
   - [[Wiki/Threats/Harker-Ranch-Murder]]
 
-Situation: Jake has returned from the north pasture crime scene at dusk. Samuel Reeves and Hector Garza are in the bunkhouse. Old Man Harker is on the porch with his Winchester, waiting for a report Jake can't give in the open. Jake holds three pieces of evidence: E.C. hat band, silver belt buckle, brass military button.
+Situation: Jake is in the tack room at Harker Ranch after midnight. He has reported his findings to Old Man Harker in the smokehouse — the imposter revelation is confirmed. He has $40 from Harker and a cover story as supply runner. Assigned to fence work with Reeves at dawn. The real killer is almost certainly still in Perdition, watching.
 
-Last Session: [[Wiki/Sessions/Session-02-The-Staged-Scene]]
+Evidence held: E.C. hat band, silver belt buckle, brass military button (eagle clutching arrows).
+Funds: $40 from Harker.
+Signal protocol: lantern in main house window = safe to meet Harker after midnight in smokehouse.
+
+Open Threads:
+- Identify when the imposter replaced the real Eli — when did the switch happen?
+- Find the handler (old cavalry background) who killed the imposter — probably still in Perdition
+- Investigate the unnamed spring surveyor who asked about land rights and water access
+- Talk to [[Wiki/NPCs/Mae-Sutter]] about the imposter posing as Eli at Sunday suppers
+- Carefully question [[Wiki/NPCs/Samuel-Reeves]] and [[Wiki/NPCs/Hector-Garza]] about changes in Eli's behavior
+- Determine what the imposter found (or failed to find) on Harker land
+- Assess [[Wiki/NPCs/Tom-Blaine]] and [[Wiki/NPCs/Doc-Whitmore]] as military-connection leads
+- Clara Harker does not yet know about the imposter — when and how does she learn?
+- Find [[Wiki/NPCs/Cassidy]] (Epic vow, no progress)
+- [[Wiki/Threats/Harker-Ranch-Murder]]
+
+Last Session: [[Wiki/Sessions/Session-03-The-Imposter-Revealed]]
