@@ -1,13 +1,13 @@
 ---
 type: hub
 namespace: Wiki
-updated: "2026-05-01"
+updated: "2026-05-02"
 ---
 
 # Wiki Dashboard
 
 Overview and health status of the Ironsworn: Badlands wiki.
-Last lint: 2026-05-01 — clean (post-Session 2).
+Last lint: 2026-05-02 — clean (post-Session 3).
 
 ## Namespaces
 
@@ -27,13 +27,13 @@ Last lint: 2026-05-01 — clean (post-Session 2).
 
 - [[Wiki/Schema]] — Namespace conventions, page types, required properties, lint rules
 
-## Health Metrics (2026-05-01, post-Session 2)
+## Health Metrics (2026-05-02, post-Session 3)
 
-- Total pages: 40
-- Healthy: 40
+- Total pages: 42
+- Healthy: 42
 - Broken refs: 0 (placeholder links in Schema.md are documentation examples only)
 - Orphans: 0
 - Stale: 0
 - Credential leaks: 0
-- Fixed: State/Current-Session.md missing `created` field; Jake-Powell.md stray blank line in YAML
-- Notes: 4 new pages added this lint cycle (Session-02, Maria, Samuel-Reeves, Hector-Garza)
+- Fixed: Tom-Blaine.md missing Session 3 cross-ref and Army background; stale `updated` dates on Sessions/_index, State/_index
+- Notes: 2 new pages added this lint cycle (Session-03, Doc-Whitmore)

@@ -8,7 +8,7 @@ npc_scope: lawman
 confidence: established
 source: emergent
 created: "2026-05-01"
-updated: "2026-05-01"
+updated: "2026-05-02"
 last_location: "[[Wiki/Locations/Perdition]]"
 disposition: neutral
 disposition_known: Friendly but watchful; bought Jake a drink and hired him on
@@ -48,6 +48,7 @@ The local law for Perdition and the surrounding territory. One man covering too 
 - Has unresolved history with Old Man Harker; Harker won't allow Blaine on his land
 - Usually at the jail mornings; the Dusty Rose evenings
 - "Pays his debts" — Jake has his word of $20 and a standing favor
+- Served in the Army before becoming sheriff — established by [[Wiki/NPCs/Old-Man-Harker]] in Session 3 (though Harker doubts Blaine is cold enough to be the killer) [Session 3]
 
 ---
 
@@ -78,4 +79,5 @@ No bond held. An informal working relationship established.
 - [[Wiki/PCs/Jake-Powell]]
 - [[Wiki/Threats/Harker-Ranch-Murder]]
 - [[Wiki/Sessions/Session-01-Arriving-in-Perdition]]
+- [[Wiki/Sessions/Session-03-The-Imposter-Revealed]]
 - [[Wiki/NPCs/_index]]
